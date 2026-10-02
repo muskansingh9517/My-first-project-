@@ -1,0 +1,6 @@
+{
+  "name": "Apex Racer 3D - High-Speed Highway Rush",
+  "description": "An action-packed 3D browser racing game with responsive controls, traffic dodging, procedural track environments, and dynamic Web Audio engine sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
